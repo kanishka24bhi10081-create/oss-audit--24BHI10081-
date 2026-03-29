@@ -1,0 +1,7 @@
+My Open Source Manifesto
+Date: Sun Mar 29 09:39:01 UTC 2026
+ 
+Every day I use git which is free for everyone.
+To me freedom means freedom to modify.
+One day I will build a study helper app and share it freely.
+Open source means sharing knowledge with the world.
