@@ -7,7 +7,7 @@ else
     echo "$PACKAGE is NOT installed"
 fi
 
-# Print a short description based on package name using case
+
 case $PACKAGE in
     git)
         echo "Git: Free version control tool created by Linus Torvalds"
